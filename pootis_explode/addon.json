@@ -1,0 +1,13 @@
+{
+  "title": "PootisExplode",
+  "type": "addon",
+  "tags": [ "build", "roleplay" ],
+  "ignore": [
+    "*.vscode",
+    ".git",
+    "src/",
+    "*.js",
+    "*.bat",
+    "*.sh"
+  ]
+}
