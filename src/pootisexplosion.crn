@@ -23,7 +23,7 @@
 ; Pootis Explode addon for Charon language showcase.
 ; Makes explode players that say the word pootis.
 ;;;
-(def-extern hook ents)
+(declare hook ents)
 
 ; Chat hook
 (hook::Add "PlayerSay" "pootis_explosion_say"
