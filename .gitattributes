@@ -1,0 +1,2 @@
+# Change override so it can highlight Charon language files
+*.crn linguist-language=Clojure
